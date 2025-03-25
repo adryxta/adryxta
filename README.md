@@ -6,7 +6,7 @@ I'm a passionate software engineer based in Tokyo, Japan, currently working at [
 
 - **Location:** Tokyo, Japan
 - **Education:** B.E. in Computer Science and Engineering
-- **Languages:** C, C++, Java, Python
+- **Languages:** C, C++, Java, Kotlin
 - **Specializations:** Android Development, Web Development
 
 ## GitHub Overview
